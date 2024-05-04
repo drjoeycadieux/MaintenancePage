@@ -9,11 +9,10 @@ const Home: NextPage = () => {
         <title>Techtack-Technologies Under Maintenance</title>
         <meta
           name="description"
-          content="Techtack-Technologies Powered By TeamLitho"
+          content="Techtack-Technologies | Powered By TeamLitho"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
       <main className={styles.main}>
         <div>
           <p>Techtack-Technologies</p>
@@ -23,6 +22,10 @@ const Home: NextPage = () => {
           </span>
         </div>
       </main>
+      <hr className="inner"/>
+      <div className="container">
+        <p>Idea. Software. Fast.</p>
+      </div>
     </div>
   );
 };
