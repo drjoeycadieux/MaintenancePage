@@ -24,7 +24,7 @@
 
 .container p {
     color: white;
-    font-family: sans-serif;
+    font-family: "Gill Sans Extrabold", sans-serif;
     font-weight: bold;
     font-size: 55px;
 }
@@ -32,4 +32,6 @@
 .inner {
     width: 600px;
     margin: auto;
+    color: white;
+    padding: 1px;
 }

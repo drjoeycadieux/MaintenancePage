@@ -22,7 +22,7 @@ const Home: NextPage = () => {
           </span>
         </div>
       </main>
-      <hr className="inner"/>
+      <div className="inner"></div>
       <div className="container">
         <p>Idea. Software. Fast.</p>
       </div>
