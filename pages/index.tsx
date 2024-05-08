@@ -6,7 +6,7 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Techtack-Technologies Under Maintenance</title>
+        <title>Techtack-Technologies | Under Maintenance</title>
         <meta
           name="description"
           content="Techtack-Technologies | Powered By TeamLitho"
