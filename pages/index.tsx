@@ -14,9 +14,13 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <h1>Techtack-Technologies</h1>
-        <br/>
-        <p>This site is under maintenance come back very quickly, thank you for yourr patience.</p>
+        <h1>Techtack-Technologies | Beta</h1>
+        <br />
+        <p>Techtack-Technologies | Beta coming soon!</p>
+        <p>
+          This site is under maintenance come back very quickly, thank you for
+          yourr patience.
+        </p>
       </main>
     </div>
   );
